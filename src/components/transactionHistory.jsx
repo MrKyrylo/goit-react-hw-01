@@ -1,6 +1,6 @@
-import './transactionHistory.module.css';
+import './transactionHistory.css';
 
-export default function transactionHistory({ items }) {
+export default function TransactionHistory({ items }) {
   return (
     <table>
       <thead>

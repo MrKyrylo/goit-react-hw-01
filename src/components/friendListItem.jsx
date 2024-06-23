@@ -1,4 +1,4 @@
-import './src/components/friendListItem.module.css';
+import './friendListItem.css';
 
 export default function FriendListItem({ avatar, name, isOnline }) {
   let status = isOnline ? 'online' : 'offline';
