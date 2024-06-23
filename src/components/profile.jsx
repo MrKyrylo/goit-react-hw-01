@@ -1,4 +1,4 @@
-import './profile.css';
+import './src/components/profile.css';
 
 export default function Profile({ name, tag, location, image, stats }) {
   return (

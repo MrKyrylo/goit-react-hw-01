@@ -1,4 +1,4 @@
-import './transactionHistory.css';
+import './src/components/transactionHistory.css';
 
 export default function TransactionHistory({ items }) {
   return (
