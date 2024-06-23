@@ -1,4 +1,4 @@
-import './App.module.css';
+import './src/App.css';
 
 import Profile from './components/profile.jsx';
 import FriendList from './components/friendList.jsx';
